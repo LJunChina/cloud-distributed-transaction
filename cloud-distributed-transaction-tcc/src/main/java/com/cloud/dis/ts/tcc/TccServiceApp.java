@@ -1,12 +1,12 @@
-package com.cloud.dis.ts.common;
+package com.cloud.dis.ts.tcc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class App {
+public class TccServiceApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(App.class, args);
+		SpringApplication.run(TccServiceApp.class, args);
 	}
 }
