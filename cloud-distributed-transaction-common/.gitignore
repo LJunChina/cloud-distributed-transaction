@@ -27,4 +27,3 @@ nbdist/
 /.gradle/
 /out/
 
-cloud-distributed-transaction.iml
