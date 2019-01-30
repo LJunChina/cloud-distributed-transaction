@@ -1,2 +1,4 @@
 rootProject.name = 'cloud-distributed-transaction'
 include 'cloud-distributed-transaction-common'
+include 'cloud-distributed-transaction-message'
+include 'cloud-distributed-transaction-tcc'
